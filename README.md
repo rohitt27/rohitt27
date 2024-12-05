@@ -1,4 +1,4 @@
-![MaterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![MaterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMohan-duhan&psig=AOvVaw1AZryL0T7rpyPj_-5JUPzw&ust=1733483462162000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCmxKO_kIoDFQAAAAAdAAAAABAJ)
 
 <h1 align="center">Hi 👋, I'm Rohit Pattar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
