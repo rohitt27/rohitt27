@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitt27&label=Profile%20views&color=0e75b6&style=flat" alt="rohitt27" /> </p>
 
-- 💬 Ask me about **Java , SpringBoot**
+- 🌱 I’m currently learning **MongoDB**
+
+- 💬 Ask me about **Java , Spring Boot**
+
+- 📫 How to reach me **pattarrohit003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
